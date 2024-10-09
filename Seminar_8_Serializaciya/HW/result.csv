@@ -1,0 +1,12 @@
+Path,Type,Size
+test\test_file_6.txt,File,0
+test\test_file_6.txt,Directory,2828
+test\test_file_6.txt,Directory,487
+test\test_file_6.txt,Directory,487
+test\test_file_6.txt,Directory,0
+test\test_1\test_file_1.txt,File,1414
+test\test_1\test_file_2.txt,File,1414
+test\test_1\test_file_2.txt,Directory,0
+test\test_2\test_file_3.txt,File,487
+test\test_3\test_file_4.txt,File,0
+test\test_3\test_file_5.txt,File,487

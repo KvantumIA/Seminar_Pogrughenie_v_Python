@@ -1,0 +1,12 @@
+**********************************************************************
+File "__main__", line ?, in __main__.test_employee_raise_salary
+Failed example:
+    emp.salary
+Expected:
+    55000.0
+Got:
+    55000.00000000001
+**********************************************************************
+1 items had failures:
+   1 of   3 in __main__.test_employee_raise_salary
+***Test Failed*** 1 failures.

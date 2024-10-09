@@ -1,0 +1,57 @@
+[
+    {
+        "Path": "test\\test_file_6.txt",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "test\\test_1",
+        "Type": "Directory",
+        "Size": 2828
+    },
+    {
+        "Path": "test\\test_2",
+        "Type": "Directory",
+        "Size": 487
+    },
+    {
+        "Path": "test\\test_3",
+        "Type": "Directory",
+        "Size": 487
+    },
+    {
+        "Path": "test\\test_4",
+        "Type": "Directory",
+        "Size": 0
+    },
+    {
+        "Path": "test\\test_1\\test_file_1.txt",
+        "Type": "File",
+        "Size": 1414
+    },
+    {
+        "Path": "test\\test_1\\test_file_2.txt",
+        "Type": "File",
+        "Size": 1414
+    },
+    {
+        "Path": "test\\test_1\\test_1_1",
+        "Type": "Directory",
+        "Size": 0
+    },
+    {
+        "Path": "test\\test_2\\test_file_3.txt",
+        "Type": "File",
+        "Size": 487
+    },
+    {
+        "Path": "test\\test_3\\test_file_4.txt",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "test\\test_3\\test_file_5.txt",
+        "Type": "File",
+        "Size": 487
+    }
+]

@@ -1,0 +1,6 @@
+INFO:HW:{'Name': 'test_file', 'Extension': 'md', 'Path': 'test'}
+INFO:HW:{'Name': 'test_dir', 'Path': 'test'}
+INFO:HW:{'Name': 'test_dir2', 'Path': 'test'}
+INFO:HW:{'Name': 'test_dir3', 'Path': 'test'}
+INFO:HW:{'Name': 'readme', 'Extension': 'txt', 'Path': 'test\\test_dir'}
+INFO:HW:{'Name': 'test_dir5', 'Path': 'test\\test_dir'}
